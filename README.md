@@ -1,3 +1,5 @@
+_마지막 업데이트: 2020.12.13_
+
 ## 시작
 
 ```bash
@@ -8,10 +10,10 @@ yarn dev
 
 ## 주요 패키지 버전
 
+`package.json`
+
 ```json
-// 해당 프로젝트의 package.json
 {
-  // ...
   "dependencies": {
     "next": "^10.0.3",
     "react": "^17.0.1",
@@ -25,6 +27,5 @@ yarn dev
     "babel-plugin-styled-components": "^1.12.0",
     "typescript": "^4.1.3"
   }
-  // ...
 }
 ```
